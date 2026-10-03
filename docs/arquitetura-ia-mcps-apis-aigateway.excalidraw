@@ -1792,8 +1792,8 @@
         "type": 3
       },
       "seed": 1266131935,
-      "version": 412,
-      "versionNonce": 542317549,
+      "version": 413,
+      "versionNonce": 2092499985,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1811,9 +1811,13 @@
         {
           "id": "nX8Z2QfM8K-PeEyVNBGd1",
           "type": "arrow"
+        },
+        {
+          "id": "o1120Tx7mfYAN62NnUEdu",
+          "type": "arrow"
         }
       ],
-      "updated": 1790985948151,
+      "updated": 1790988736731,
       "link": null,
       "locked": false
     },
@@ -1989,16 +1993,20 @@
       "index": "ax",
       "roundness": null,
       "seed": 33893055,
-      "version": 239,
-      "versionNonce": 1034082411,
+      "version": 240,
+      "versionNonce": 577520209,
       "isDeleted": false,
       "boundElements": [
         {
           "id": "K9_wfL6ztREdznUfh388z",
           "type": "arrow"
+        },
+        {
+          "id": "o1120Tx7mfYAN62NnUEdu",
+          "type": "arrow"
         }
       ],
-      "updated": 1790978905053,
+      "updated": 1790988553069,
       "link": null,
       "locked": false,
       "text": "Microsoft Agent\nFramework",
@@ -2014,8 +2022,8 @@
     {
       "id": "6WAf4VUIxuv0fVExmUfqN",
       "type": "image",
-      "x": -1361.890882037934,
-      "y": -264.44696123637755,
+      "x": -1436.557426634288,
+      "y": 27.553059108674574,
       "width": 108.33335876464844,
       "height": 108.33335876464844,
       "angle": 0,
@@ -2031,11 +2039,11 @@
       "index": "az",
       "roundness": null,
       "seed": 213752543,
-      "version": 232,
-      "versionNonce": 1349724965,
+      "version": 279,
+      "versionNonce": 193764287,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1790979368482,
+      "updated": 1790988756154,
       "link": null,
       "locked": false,
       "status": "pending",
@@ -2049,8 +2057,8 @@
     {
       "id": "UVKoc9Blh31ltYKOEWjl9",
       "type": "text",
-      "x": -1245.7098320552273,
-      "y": -233.05813168722364,
+      "x": -1320.3763766515813,
+      "y": 58.941888657828486,
       "width": 199.30392456054688,
       "height": 70,
       "angle": 0,
@@ -2066,11 +2074,11 @@
       "index": "b00",
       "roundness": null,
       "seed": 709622641,
-      "version": 355,
-      "versionNonce": 1636597381,
+      "version": 402,
+      "versionNonce": 1679870943,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1790979368482,
+      "updated": 1790988756154,
       "link": null,
       "locked": false,
       "text": "OpenTelemetry\nExporter",
@@ -5090,14 +5098,6 @@
           "type": "arrow"
         },
         {
-          "id": "fS4yT2ReCkaBHLIhe6a_U",
-          "type": "arrow"
-        },
-        {
-          "id": "2iW8uw3Xz5u2aFEKjNyia",
-          "type": "arrow"
-        },
-        {
           "id": "1T4QR_PUBW3F2M0lrgKNt",
           "type": "arrow"
         },
@@ -5815,14 +5815,6 @@
         },
         {
           "id": "wIxJgqNNsjYVZHaI48Duj",
-          "type": "arrow"
-        },
-        {
-          "id": "sUVofT1dgVwZ9s0PWA6Lh",
-          "type": "arrow"
-        },
-        {
-          "id": "BNqOTHRGC1xXyuzZKvx4O",
           "type": "arrow"
         },
         {
@@ -8312,16 +8304,20 @@
       "index": "b4Y",
       "roundness": null,
       "seed": 1427088267,
-      "version": 1112,
-      "versionNonce": 400694763,
+      "version": 1113,
+      "versionNonce": 1875550737,
       "isDeleted": false,
       "boundElements": [
         {
           "id": "T8ZN_muB7P7li34AlU_9g",
           "type": "arrow"
+        },
+        {
+          "id": "o1120Tx7mfYAN62NnUEdu",
+          "type": "arrow"
         }
       ],
-      "updated": 1790979235595,
+      "updated": 1790988553069,
       "link": null,
       "locked": false,
       "status": "pending",
@@ -10094,7 +10090,7 @@
       "version": 194,
       "versionNonce": 1531790819,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1790985658953,
       "link": null,
       "locked": false,
@@ -10169,7 +10165,7 @@
       "version": 81,
       "versionNonce": 79077101,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1790985967659,
       "link": null,
       "locked": false,
@@ -10339,6 +10335,70 @@
       "originalText": "Retorno do AI Gateway",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "o1120Tx7mfYAN62NnUEdu",
+      "type": "arrow",
+      "x": -585.5948702483661,
+      "y": -169.34664370991663,
+      "width": 2512.0019531249995,
+      "height": 708.2670491536458,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "dashed",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b5U",
+      "roundness": null,
+      "seed": 859304561,
+      "version": 864,
+      "versionNonce": 776379871,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1790988737552,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0020345052080301684,
+          318.66658528645826
+        ],
+        [
+          -2503.999837239583,
+          337.333272298177
+        ],
+        [
+          -2511.9999186197915,
+          703.9999389648435
+        ],
+        [
+          -2389.8665568033853,
+          708.2670491536458
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "hU_NP2QGlLuTrd2ibNEgh",
+        "focus": 0.09008273555501255,
+        "gap": 22.58460533338058
+      },
+      "endBinding": {
+        "elementId": "0afN6IcAkr8MYTEazdMHn",
+        "focus": 0.07165504407942262,
+        "gap": 3.168802974130813
+      },
+      "startArrowhead": "triangle",
+      "endArrowhead": "triangle",
+      "elbowed": false
     }
   ],
   "appState": {
